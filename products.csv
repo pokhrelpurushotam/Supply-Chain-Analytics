@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Category,Cost_Per_Unit,Sell_Price_Per_Unit,Reorder_Point_Cases,Safety_Stock_Cases,Primary_Warehouse_ID,Shelf_Life_Days,Lead_Time_Days
+PRD-001,Tomatoes,Vine Vegetables,2.5,4.2,500,150,WH-001,7,12
+PRD-002,Peppers,Vine Vegetables,3.1,5.0,400,120,WH-001,10,14
+PRD-003,Cucumbers,Vine Vegetables,1.8,3.2,600,180,WH-002,5,10
+PRD-004,Lettuce,Leafy Greens,1.5,2.8,450,130,WH-002,5,7
+PRD-005,Strawberries,Berries,4.0,7.5,300,100,WH-001,3,5
+PRD-006,Mixed Produce,Assorted,2.8,4.8,350,100,WH-003,7,10

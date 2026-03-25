@@ -1,0 +1,4 @@
+Warehouse_ID,Warehouse_Name,Location,Capacity_SqFt,Storage_Type,Max_Pallets
+WH-001,Kingsville Distribution Center,"Kingsville, ON",50000,Cold Storage,120
+WH-002,Leamington Produce Hub,"Leamington, ON",40000,Cold Storage,85
+WH-003,Windsor Regional Warehouse,"Windsor, ON",65000,Mixed,150
